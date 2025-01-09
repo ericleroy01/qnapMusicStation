@@ -1,4 +1,4 @@
-# Welcome to qnapMusicStaion Pages
+# Welcome to qnapMusicStation Pages
 
 ## Features<br/>
 - manage you qnap MusicStation library<br/>
